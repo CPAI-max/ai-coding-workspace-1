@@ -2,7 +2,7 @@
 
 A simplified AI-powered coding workspace built for the technical assessment. Users can sign up, create isolated JavaScript, Python, and Website Builder projects, manage files, edit code, and chat with an AI assistant that can inspect and update project files.
 
-Repository: https://github.com/chetan-18181/ai-coding-workspace
+Repository: https://github.com/CPAI-max/ai-coding-workspace
 
 ## Tech Stack
 
@@ -36,7 +36,7 @@ Repository: https://github.com/chetan-18181/ai-coding-workspace
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/chetan-18181/ai-coding-workspace.git
+git clone https://github.com/CPAI-max/ai-coding-workspace.git
 cd ai-coding-workspace
 ```
 
@@ -236,7 +236,7 @@ Then restart the backend.
 Make sure you are authenticated with the GitHub account that owns the repository:
 
 ```text
-https://github.com/chetan-18181/ai-coding-workspace
+https://github.com/CPAI-max/ai-coding-workspace
 ```
 
 If Git is logged in as another account, either switch GitHub credentials or add that account as a collaborator.
